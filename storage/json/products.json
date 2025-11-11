@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Building Materials",
+      "slug": "building-materials",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Metal Structures",
+      "slug": "metal-structures",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Industrial and Mining Equipment",
+      "slug": "industrial-mining-equipment",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Spare Parts",
+      "slug": "spare-parts",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mining machinery and mobile",
+      "slug": "mining-machinery",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chemicals and Reagents",
+      "slug": "chemicals-and-reagents",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Various Industrial",
+      "slug": "various-industrial",
+      "subtitle": "We provide quality materials you can trust.",
+      "description": "We guarantee you access to a supply chain of the highest quality building materials, ensuring the durability and compliance of all your projects, from foundation to finishes : ",
+      "image_path": "assets/images/products/thumb-01.webp",
+      "products_list": [
+        "Cement and Concrete",
+        "Reinforcing bars",
+        "Bricks",
+        "Aggregates"
+      ]
+    }
+  ]
+}

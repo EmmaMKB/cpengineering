@@ -57,7 +57,7 @@
                         <div class="header-main-one-wrapper">
                             <div class="thumbnail">
                                 <a href="{{ route('home') }}">
-                                    <img src="assets/images/logo/logo.png" alt="cp-engineering-logo">
+                                    <img src="{{ asset('assets/images/logo/logo.png') }}" alt="cp-engineering-logo">
                                 </a>
                             </div>
                             <div class="main-header">
@@ -70,7 +70,7 @@
                                             <a href="{{ route('services.index') }}">Services</a>
                                         </li>
                                         <li class="main-nav">
-                                            <a href="#">Products</a>
+                                            <a href="{{ route('products.index') }}">Products</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -311,7 +311,7 @@
                         <a href="{{ route('services.index') }}" class="main" aria-expanded="false">Our Services</a>
                     </li>
                     <li>
-                        <a href="#" class="main" aria-expanded="false">Our Products</a>
+                        <a href="{{ route('products.index') }}" class="main" aria-expanded="false">Our Products</a>
                     </li>
                     <li>
                         <a href="#" class="main">Contact</a>

@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ProductsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -68,5 +69,8 @@ Route::get('/services/repair/', function () {
 Route::get('/services/technical-advice/', function () {
     return view('services.technical-advice');
 })->name('services.technical-advice');
+
+Route::get('/products/', [ProductsController::class, 'index'])->name('products.index');
+Route::get('/products/{slug}/', [ProductsController::class, 'details'])->name('products.details');
 
 
