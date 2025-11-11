@@ -97,6 +97,8 @@
         </div>
     </header>
 
+    @yield('content')
+
     <div class="rts-footer-area footer-six bg_image rts-section-gapTop bg-footer-one">
         <div class="container bg-shape-f1">
             <!-- footer call to action area -->
@@ -135,7 +137,7 @@
                     <div class="footer-one-single-wized">
                         <div class="wized-title">
                             <h5 class="title">Quick Links</h5>
-                            <img src="assets/images/footer/under-title.png" alt="finbiz_footer">
+                            <img src="{{ asset('assets/images/footer/under-title.png') }}" alt="finbiz_footer">
                         </div>
                         <div class="quick-link-inner">
                             <ul class="links">
@@ -253,7 +255,7 @@
         <button class="close-icon-menu" title="Close menu"><i class="far fa-times"></i></button>
         <!-- inner menu area desktop start -->
         <div class="rts-sidebar-menu-desktop">
-            <a class="logo-1" href="{{ route('home') }}"><img class="logo" src="{{ asset('assets/images/logo/01.svg') }}" alt="cpengineering_logo"></a>
+            <a class="logo-1" href="{{ route('home') }}"><img class="logo" src="{{ asset('assets/images/logo/logo.png') }}" alt="cpengineering_logo"></a>
             <div class="body d-none d-xl-block">
                 <p class="disc">
                     We specialize in the efficient and reliable supply of
