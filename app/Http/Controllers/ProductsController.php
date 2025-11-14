@@ -34,8 +34,13 @@ class ProductsController extends Controller
             }
         }
 
+        $otherProducts = array_values(array_filter($products, function ($p) use ($slug) {
+            return ($p['slug'] ?? null) !== $slug;
+        }));
+
         return view('products.details', [
-            'product' => $product
+            'product' => $product,
+            'otherProducts' => $otherProducts
         ]);
     }
 }

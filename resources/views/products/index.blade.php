@@ -47,7 +47,7 @@
                                 <p class="disc">
                                     {{ $p['subtitle'] }}
                                 </p>
-                                <a href="{{ route('products.index', $p['slug']) }}" class="read-more">Read More <i
+                                <a href="{{ route('products.details', ['slug' => $p['slug']]) }}" class="read-more">Read More <i
                                         class="fa-sharp fa-regular fa-arrow-right"></i></a>
                             </div>
                         </div>
