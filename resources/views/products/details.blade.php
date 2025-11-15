@@ -34,7 +34,7 @@
                 <div class="col-xl-8">
                     <div class="service-details-left-area">
                         <div class="thumbnail">
-                            <img src="{{ asset('assets/images/service/11.webp') }}" alt="">
+                            <img src="{{ asset($product['banner_image']) }}" alt="">
                         </div>
                         <h3 class="title">{{ $product['name'] }}</h3>
                         <p class="disc">
