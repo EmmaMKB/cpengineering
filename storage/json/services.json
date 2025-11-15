@@ -1,0 +1,158 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Civil Engineering",
+      "slug": "civil-engineering",
+      "subtitle": "Reliable Civil Engineering for your Projects.",
+      "description": "Our civil engineering expertise transforms your visions into sustainable realities. From design to delivery, we guarantee quality, safety, and on-time completion for projects that stand the test of time.",
+      "image_path": "assets/images/services/thumb-01.png",
+      "banner_image": "assets/images/services/banner-01.jpg",
+      "services_list": [
+        "Infrastructure construction",
+        "Roads",
+        "Concrete and metal structures"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Industrial Maintenance",
+      "slug": "industrial-maintenance",
+      "subtitle": "Keeping Your Operations Running Smoothly.",
+      "description": "Our industrial maintenance service is your shield against downtime. We extend the life of your equipment, optimize its performance, and guarantee the safety of your facilities through expert preventive and corrective maintenance solutions.",
+      "image_path": "assets/images/services/thumb-02.png",
+      "banner_image": "assets/images/services/banner-02.jpg",
+      "services_list": [
+        "Mechanical maintenance",
+        "Electrical maintenance"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Industrial, residential, sports facilities, and worker camp cleaning",
+      "slug": "cleaning-services",
+      "subtitle": "Cleaning for All Facility Types.",
+      "description": "Hygiene and cleanliness reflect your professionalism. We offer comprehensive and specialized cleaning solutions for demanding industrial environments, residences, sports facilities, and worker camps, ensuring a healthy, safe, and motivating living and working environment.",
+      "image_path": "assets/images/services/thumb-03.png",
+      "banner_image": "assets/images/services/banner-03.jpg",
+      "services_list": [
+
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Repair and Renovation Work",
+      "slug": "renovation-and-repair",
+      "subtitle": "Expert Repair and Facility Renovation.",
+      "description": "Industrial buildings and facilities: Modernize and secure your infrastructure. Our refurbishment and renovation work transforms your industrial buildings and facilities. Whether you want to improve energy efficiency, comply with new standards, or expand your capacity, we restore value and functionality to your real estate assets.",
+      "image_path": "assets/images/services/thumb-04.png",
+      "banner_image": "assets/images/services/banner-04.jpg",
+      "services_list": [
+
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Metal and Plastic Welding",
+      "slug": "welding-services",
+      "subtitle": "Welding and Fabrication Services.",
+      "description": "The quality of the weld is key to the safety of your fluids and structures. We excel in metal and plastic welding techniques.",
+      "image_path": "assets/images/services/thumb-05.png",
+      "banner_image": "assets/images/services/banner-05.jpg",
+      "services_list": [
+        "Steel piping",
+        "HDPE",
+        "Geomembranes"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Engineering Work and Technical Studies",
+      "slug": "technical-studies",
+      "subtitle": "Technical Studies and Detailed Engineering Solutions.",
+      "description": "Through in-depth technical studies and rigorous engineering work, we lay the solid foundations necessary for the success of your project, ensuring its feasibility, economic efficiency, and regulatory compliance. ",
+      "image_path": "assets/images/services/thumb-06.png",
+      "banner_image": "assets/images/services/banner-06.jpg",
+      "services_list": [
+
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Reduction and Classification of Minerals",
+      "slug": "minerals-reduction-classification",
+      "subtitle": "Mineral Processing for Maximum Yield.",
+      "description": "The value of your minerals depends on precise preparation. We master the critical stages of reduction and classification to achieve the ideal particle size, thereby maximizing the efficiency of your extraction and concentration processes.",
+      "image_path": "assets/images/services/thumb-07.png",
+      "banner_image": "assets/images/services/banner-07.jpg",
+      "services_list": [
+        "Crushing",
+        "Grinding",
+        "Screening"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Mining and Road Feasibility Studies",
+      "slug": "feasability-studies",
+      "subtitle": "Strategic Feasibility Studies for New Projects.",
+      "description": "Our detailed feasibility studies provide you with a comprehensive cost-benefit analysis, assessing risks and profitability potential so you can make informed strategic decisions and minimize surprises.",
+      "image_path": "assets/images/services/thumb-08.png",
+      "banner_image": "assets/images/services/banner-07.jpg",
+      "services_list": [
+
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Certification Training",
+      "slug": "certification-training",
+      "subtitle": "Certified Training for Industrial Expertise and Safety.",
+      "description": "in technical and HSE fields: We offer high-quality certification training in technical and HSE (Health, Safety, Environment) fields, ensuring that your staff are not only qualified, but able to operate according to the highest industry standards.",
+      "image_path": "assets/images/services/thumb-09.png",
+      "banner_image": "assets/images/services/banner-07.jpg",
+      "services_list": [
+
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Specialized Technical Advice",
+      "slug": "technical-advice",
+      "subtitle": "Expert Technical Advice and Strategic Consulting.",
+      "description": "When faced with complex technical issues, our team of specialist consultants provides you with tailor-made solutions. We offer strategic support, accurate diagnostics, and targeted recommendations to optimize your operations, investments, and projects.",
+      "image_path": "assets/images/services/thumb-10.png",
+      "banner_image": "assets/images/services/banner-07.jpg",
+      "services_list": [
+
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Environmental Works",
+      "slug": "environmental-works",
+      "subtitle": "Sustainable Environmental Solutions for Mining Sites.",
+      "description": "Environmental impact is a major issue. We help you achieve your sustainability goals through targeted environmental work:",
+      "image_path": "assets/images/services/thumb-11.png",
+      "banner_image": "assets/images/services/banner-07.jpg",
+      "services_list": [
+        "Waste management",
+        "Site rehabilitation",
+        "Revegetation"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Logistics And Transportation",
+      "slug": "logistics",
+      "subtitle": "Reliable Transport and Logistics Solutions.",
+      "description": "Your company's performance depends on flawless logistics. That's why we offer you our expertise in:",
+      "image_path": "assets/images/services/thumb-12.png",
+      "banner_image": "assets/images/services/banner-07.jpg",
+      "services_list": [
+        "Organization and management of the transport of goods, equipment, and people",
+        "Management of flows to and from mining sites."
+      ]
+    }
+  ]
+}
