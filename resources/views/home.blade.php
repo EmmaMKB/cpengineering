@@ -13,9 +13,7 @@
                             We got Innovative <span>Solutions,</span> Tailored for Your Success
                         </h1>
                         <p class="disc banner-para">
-                            Porttitor ornare fermentum aliquam pharetra facilisis gravida risus suscipit <br> Dui
-                            feugiat
-                            fusce conubia ridiculus tristique parturient
+                           
                         </p>
                         <a href="#" class="rts-btn btn-primary color-h-black">Get In Touch</a>
                     </div>
@@ -62,18 +60,7 @@
                         </div>
                         <div class="progress-circle-main-wrapper">
 
-                            <div class="progress-area-wrapper images-r">
-                                <div class="single-progress-circle">
-                                    <svg class="radial-progress" data-countervalue="80" viewBox="0 0 80 80">
-                                        <circle class="bar-static" cx="40" cy="40" r="35"></circle>
-                                        <circle class="bar--animated" cx="40" cy="40" r="35"
-                                            style="stroke-dashoffset: 217.8;"></circle>
-                                        <text class="countervalue start" x="50%" y="55%"
-                                            transform="matrix(0, 1, -1, 0, 80, 0)">80</text>
-                                    </svg>
-                                </div>
-                                <h5 class="title">Business Progress</h5>
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -178,7 +165,7 @@
                                 <h5 class="title">Civil Engineering</h5>
                             </div>
                             <div class="right">
-                                <a href="{{ route('services.civil-engineering') }}" class="arrow">
+                                <a href="#" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -191,7 +178,7 @@
                                 <h5 class="title">Industrial Maintenance</h5>
                             </div>
                             <div class="right">
-                                <a href="{{ route('services.industrial-maintenance') }}" class="arrow">
+                                <a href="#" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -204,7 +191,7 @@
                                 <h5 class="title">Logistics and transportation</h5>
                             </div>
                             <div class="right">
-                                <a href="{{ route('services.logistics') }}" class="arrow">
+                                <a href="#" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -270,7 +257,7 @@
                                 <h5 class="title">Building Materials</h5>
                             </div>
                             <div class="right">
-                                <a href="{{ route('services.civil-engineering') }}" class="arrow">
+                                <a href="{{ route('products.details', ['slug' => 'building-materials']) }}" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -283,7 +270,7 @@
                                 <h5 class="title">Metal Structures</h5>
                             </div>
                             <div class="right">
-                                <a href="{{ route('services.industrial-maintenance') }}" class="arrow">
+                                <a href="{{ route('products.details', ['slug' => 'metal-structures']) }}" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -296,7 +283,7 @@
                                 <h5 class="title">Spare Parts</h5>
                             </div>
                             <div class="right">
-                                <a href="{{ route('services.logistics') }}" class="arrow">
+                                <a href="{{ route('products.details', ['slug' => 'spare-parts']) }}" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>

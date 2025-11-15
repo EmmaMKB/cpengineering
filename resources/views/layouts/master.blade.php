@@ -161,7 +161,7 @@
                     <div class="footer-one-single-wized mid-bg">
                         <div class="wized-title">
                             <h5 class="title">Opening Hours</h5>
-                            <img src="assets/images/footer/under-title.png" alt="finbiz_footer">
+                            <img src="{{ asset('assets/images/footer/under-title.png') }}" alt="finbiz_footer">
                         </div>
                         <div class="opening-time-inner">
                             <div class="single-opening">
