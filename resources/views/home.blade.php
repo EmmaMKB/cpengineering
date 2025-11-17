@@ -13,7 +13,7 @@
                             We got Innovative <span>Solutions,</span> Tailored for Your Success
                         </h1>
                         <p class="disc banner-para">
-                           
+
                         </p>
                         <a href="#" class="rts-btn btn-primary color-h-black">Get In Touch</a>
                     </div>
@@ -165,7 +165,7 @@
                                 <h5 class="title">Civil Engineering</h5>
                             </div>
                             <div class="right">
-                                <a href="#" class="arrow">
+                                <a href="{{ route('services.details', ['slug' => "civil-engineering"]) }}" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -178,7 +178,7 @@
                                 <h5 class="title">Industrial Maintenance</h5>
                             </div>
                             <div class="right">
-                                <a href="#" class="arrow">
+                                <a href="{{ route('services.details', ['slug' => "industrial-maintenance"]) }}" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -191,7 +191,7 @@
                                 <h5 class="title">Logistics and transportation</h5>
                             </div>
                             <div class="right">
-                                <a href="#" class="arrow">
+                                <a href="{{ route('services.details', ['slug' => "logistics"]) }}" class="arrow">
                                     <i class="fa-regular fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -296,7 +296,7 @@
     <!-- rts product area end -->
 
     <!-- start vedio area start -->
-    <div class="rts-vedio-area-home-6 rts-section-gapBottom">
+    {{-- <div class="rts-vedio-area-home-6 rts-section-gapBottom">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -317,7 +317,7 @@
         <!-- <div class="bg-shape-vedio-section">
             <img src="assets/images/gallery/bg-vedio.png" alt="bg">
         </div> -->
-    </div>
+    </div> --}}
     <!-- start vedio area end -->
     <!-- rts partners area start -->
     <div class="rts-client-area ptb--100 brand-bg-three bg_image">
