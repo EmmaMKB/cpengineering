@@ -56,7 +56,7 @@
                     <div class="thumbnail-about-and-progress-1">
 
                         <div class="thumbnail-about-1">
-                            <img src="assets/images/about/01.webp" alt="about">
+                            <img src="{{ asset('assets/images/about/01.webp') }}" alt="about">
                         </div>
                         <div class="progress-circle-main-wrapper">
 
