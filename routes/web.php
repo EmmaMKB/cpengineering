@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\MainController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProductsController;
 use App\Http\Controllers\ServiceController;
@@ -18,6 +19,12 @@ use App\Http\Controllers\ServiceController;
 Route::get('/', function () {
     return view('home');
 })->name('home');
+
+Route::get('/contact/', function () {
+    return view('contact');
+})->name('contact');
+
+Route::post('/contact/', [MainController::class, 'contact'])->name('contact.submit');
 
 Route::get('/services/', [ServiceController::class, 'index'])->name('services.index');
 Route::get('/services/{slug}', [ServiceController::class, 'details'])->name('services.details');
