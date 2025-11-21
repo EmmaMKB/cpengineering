@@ -296,14 +296,14 @@
     <!-- rts product area end -->
 
     <!-- start vedio area start -->
-    {{-- <div class="rts-vedio-area-home-6 rts-section-gapBottom">
+    <div class="rts-vedio-area-home-6 rts-section-gapBottom">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="thumbnail-image-gallery">
                         <img src="{{ asset('assets/images/gallery/16.webp') }}" alt="thumbnail-image">
                         <div class="vedio-icone">
-                            <a class="video-play-button play-video popup-video" href="https://www.youtube.com/watch?v=vZE0j_WCRvI">
+                            <a class="video-play-button play-video popup-video" href="https://www.youtube.com/watch?v=6ZxAUMwsU6c">
                                 <span></span>
                             </a>
                             <div class="video-overlay">
@@ -317,7 +317,7 @@
         <!-- <div class="bg-shape-vedio-section">
             <img src="assets/images/gallery/bg-vedio.png" alt="bg">
         </div> -->
-    </div> --}}
+    </div>
     <!-- start vedio area end -->
     <!-- rts partners area start -->
     <div class="rts-client-area ptb--100 brand-bg-three bg_image">
