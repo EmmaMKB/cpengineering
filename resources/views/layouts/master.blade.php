@@ -220,17 +220,17 @@
                         <div class="opening-time-inner">
                             <div class="single-opening">
                                 <p class="day">Week Days</p>
-                                <p class="time">09.00 - 24:00</p>
+                                <p class="time">07:30 - 16:00</p>
                             </div>
                             <div class="single-opening">
                                 <p class="day">Saturday</p>
-                                <p class="time">08:00 - 03.00</p>
+                                <p class="time">07:30 - 11:30</p>
                             </div>
                             <div class="single-opening mb--30 mb_sm--10">
                                 <p class="day">Sunday</p>
                                 <p class="time">Day Off</p>
                             </div>
-                            <a href="#" class="rts-btn btn-primary contact-us">Contact Us</a>
+                            <a href="{{ route('contact') }}" class="rts-btn btn-primary contact-us">Contact Us</a>
                         </div>
                     </div>
                 </div>
@@ -371,7 +371,7 @@
                             Products</a>
                     </li>
                     <li>
-                        <a href="#" class="main">Contact</a>
+                        <a href="{{ route('contact') }}" class="main">Contact</a>
                     </li>
                 </ul>
             </nav>
